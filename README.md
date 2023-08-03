@@ -1,5 +1,6 @@
 # Get-Full-Windows-ISOs
 Download Eval copies of Windows and convert them EVAL to Full ISO Standard/DataCentre/Enterprise etc<br>
+legally. .. i think<br>
 <br>
 Download Eval ISOs from MS.<br>
 Mount ISO.<br>
