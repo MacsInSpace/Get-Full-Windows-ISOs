@@ -14,4 +14,13 @@ Use New-IsoFile function to create ISO (With thanks! by Chris Wu)<br>
 <br>
 Have a coffee.<br>
 
-
+<br><br>
+To do:<br>
+Change the Win 10/11 to filter type and add their keys correctly. Not build number<br>
+Dont just put the enterprise key in for home. add the home key amongst others<br>
+Have a better multidimentional array fro Windows tye including key. That could the size and complexity lines by a lot. (find Rohans Suggestion from wk!) <br>
+<br>
+Add CAB updates?<br>
+Clean up<br>
+Remove EVAL iso at the end<br>
+Remove Source folder at the end (After testing)<br>
