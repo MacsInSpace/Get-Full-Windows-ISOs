@@ -4,7 +4,7 @@ Download Eval copies of Windows and convert them EVAL to Full ISO Standard/DataC
 Download Eval ISOs from MS.<br>
 Mount ISO.<br>
 Copy ISO source to folder.<br>
-DISM add key to Instal.wim and set version to Full version Enterprise/Standard/Datacentre/etc<br>
+DISM add key to Install.wim and set version to Full version Enterprise/Standard/Datacentre/etc<br>
 <br>
 Adds KMS key - now needs fixing<br>
 Setting Version - now needs fixing<br>
